@@ -1,6 +1,8 @@
-# This project is to test "My Store (multiformis.com)" website using NightwatchJS.<br>
-### 1- In the homepage, verifying the search for “dress” and verify the search results.<br>
-### 2- In the contact us page, Verify submitting contact form with diffrent inputs:<br>
+### Aim of the project:
+This project is to test "My Store (multiformis.com)" website using NightwatchJS.<br>
+### Test Cases:
+1- In the homepage, verifying the search for “dress” and verify the search results.<br>
+2- In the contact us page, Verify submitting contact form with diffrent inputs:<br>
       a- Verify submitting contact form with valid input.<br>
       b- Verify validation for empty Subject field.<br>
       c- Verify validation for empty Email field.<br>
