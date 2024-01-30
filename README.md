@@ -7,3 +7,4 @@ This project is to test "My Store (multiformis.com)" website using NightwatchJS.
       d- Verify validation for empty Message field.
 3- The HTML report for the result: C:\Users\HP\nightwatchtest\tests_output\nightwatch-html-report\index.html
 4- the command to run this code from the CMD: nightwatch --config nightwatch.json
+5- Bug ticket and test cases document are also provided.
